@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Programs
+Bundle-SymbolicName: Python.Practice.Programs
+Bundle-Version: 1.0.0.qualifier
