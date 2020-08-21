@@ -1,4 +1,4 @@
-from pyrobot import rebot
+import pyautogui
 
 
 class TowerOfHanoi:
@@ -221,13 +221,12 @@ class TowerOfHanoi:
             
         
     def cleareConsole(self):
-        R = rebot()
-        R.key_press("Shift")
-        R.key_press("F10")
-        R.key_press("R")
-        R.key_release("R")
-        R.key_release("F10")
-        R.key_release("Shift")
+        R = pyautogui
+        R.keyDown("Shift")
+        R.keyDown("F10")
+        R.press("R")
+        R.keyUp("F10")
+        R.keyUp("Shift")
 
         
 T=TowerOfHanoi()
