@@ -12,7 +12,7 @@ print( 'tupst with int values:\n',tup )
 '''Printing first value of tupst'''
 print( tup[0] )                         
 '''Printing second & third values of tupst'''
-print( tup[1:2] )                       
+print( tup[1:3] )                       
 '''Printing second to last value of tupst'''
 print( tup[1:] )                        
 '''Printing last value of tupst'''
@@ -38,7 +38,7 @@ print( '\n\ntupst with float values:\n',tup )
 '''Printing first value of tupst'''
 print( tup[0] )                         
 '''Printing second to third values of tupst'''
-print( tup[1:2] )                       
+print( tup[1:3] )                       
 '''Printing second to last value of tupst'''
 print( tup[1:] )                        
 '''Printing last value of tupst'''
@@ -64,7 +64,7 @@ print( '\n\ntupst with long values:\n',tup )
 '''Printing first value of tupst'''
 print( tup[0] )                         
 '''Printing second to third values of tupst'''
-print( tup[1:2] )                       
+print( tup[1:3] )                       
 '''Printing second to last value of tupst'''
 print( tup[1:] )                        
 '''Printing last value of tupst'''
@@ -90,7 +90,7 @@ print( '\n\ntupst with complex values:\n',tup )
 '''Printing first value of tupst'''
 print( tup[0] )                         
 '''Printing second to third values of tupst'''
-print( tup[1:2] )                       
+print( tup[1:3] )                       
 '''Printing second to last value of tupst'''
 print( tup[1:] )                        
 '''Printing last value of tupst'''
@@ -116,7 +116,7 @@ print( '\n\ntupst with String values:\n',tup )
 '''Printing first value of tupst'''
 print( tup[0] )                         
 '''Printing second to third values of tupst'''
-print( tup[1:2] )                       
+print( tup[1:3] )                       
 '''Printing second to last value of tupst'''
 print( tup[1:] )                        
 '''Printing last value of tupst'''
@@ -144,7 +144,7 @@ print( '\n\ntupst with Mixed values:\n',tup )
 '''Printing first value of tupst'''
 print( tup[0] )                         
 '''Printing second to third values of tupst'''
-print( tup[1:2] )                       
+print( tup[1:3] )                       
 '''Printing second to last value of tupst'''
 print( tup[1:] )                        
 '''Printing third value of tupst'''
